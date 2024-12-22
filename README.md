@@ -47,9 +47,11 @@ This project enhances sustainability and worker safety in manufacturing by integ
 
 ## Methodology
 
-### Project Design
+### Project Design Block Diagram
 
-- **BLOCK DIAGRAM**
+
+
+  ![block diagram](<images/block diagram/block diagram.png>)
 
 ### Explanation of Block Diagram
 
